@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Html5" align:="center"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Html5" align:="center"/>
 
-    ![Snake animation](https://github.com/gustbaccas/gustbaccas/blob/output/github-contribution-grid-snake.svg)
+    ![Snake animation](https://github.com/gustbaccas)
 </div>
 
 
