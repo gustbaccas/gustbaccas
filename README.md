@@ -4,6 +4,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gustbaccas)
 
 ![Gustavo Bacas GitHub stats](https://github-readme-stats.vercel.app/api?username=gustbaccas&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustbaccas)](https://github.com/gustbaccas/github-readme-stats)
 
 ## Tecnologias que eu uso no meu dia
 
