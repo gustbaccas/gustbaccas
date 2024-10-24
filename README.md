@@ -1,5 +1,7 @@
 
-Olá! 👋
+Olá! 👾´
+
+Desenvolvedor em formação, apaixonado por explorar o universo do React Native. Gosto de transformar ideias em código, e cada projeto é uma oportunidade para aprender algo novo. Sempre buscando crescer e compartilhar o que aprendo pelo caminho.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustbaccas-dev/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gustbaccas)
