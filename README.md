@@ -1,5 +1,5 @@
 
-Olá! 👾´
+Olá! 👾
 
 Desenvolvedor em formação, apaixonado por explorar o universo do React Native. Gosto de transformar ideias em código, e cada projeto é uma oportunidade para aprender algo novo. Sempre buscando crescer e compartilhar o que aprendo pelo caminho.
 
