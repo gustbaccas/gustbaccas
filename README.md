@@ -1,7 +1,7 @@
 
 Olá! 👾
 
-<img src="https://skillicons.dev/icons?i=java,git,intellij" />
+<img src="https://skillicons.dev/icons?i=java,springboot,git,intellij" />
 
 
 
