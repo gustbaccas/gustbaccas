@@ -1,7 +1,7 @@
 I'm Gustavo, a beginner Java developer passionate about programming and continuously improving my skills.
 
 ## 🛠 Technologies & Tools
-<img src="https://skillicons.dev/icons?i=java,spring,docker,maven,git,idea"/>
+<img src="https://skillicons.dev/icons?i=java,spring,maven,docker,git,idea"/>
 
 ## 📈 My GitHub Stats
 <p align="center">
