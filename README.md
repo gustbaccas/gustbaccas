@@ -1,4 +1,4 @@
-I'm Gustavo, a beginner Java developer passionate about programming and continuously improving my skills.
+Hi, I'm Gustavo! A Java developer passionate about coding, building projects, and learning new technologies.
 
 ## 🛠 Technologies & Tools
 <img src="https://skillicons.dev/icons?i=java,spring,maven,postman,docker,git,idea"/>
